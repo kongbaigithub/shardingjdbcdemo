@@ -1,0 +1,9 @@
+# Project exclude paths
+/design/target/
+/mp2/target/
+/sb_rabbitmq/target/
+/sharding01/target/
+/shardingjdbcdemo/target/
+/shardingspringbootdemo2/target/
+/test01/target/
+/test02/target/
