@@ -1,0 +1,8 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://10.0.0.160:3306/dynamic?useSSL=false&characterEncoding=utf-8
+    username: root
+    password: root
